@@ -1,8 +1,8 @@
-- 👋 Hi, Welcome to GitHub@AdaptiveResonance
-- 👀 I’m interested in Python, Assembly, C, C+, HTML, SQL, in that order. 
+- 👋 Hi, Welcome to my GitHub@AdaptiveResonance
+- 👀 I’m interested in Python, Assembly, C, C+, HTML, SQL. 
 - 🌱 I’m currently working on cyber security
-- 💞️ I’m looking to collaborate on Free software for public use
-- 📫 Reach me on Linkedin
+- 💞️ looking to collaborate on software for public use
+- 📫 Check me out at www.linkedin.com/in/Rain-Vasquez-TM
 
 <!---
 AdaptiveResonance/AdaptiveResonance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
